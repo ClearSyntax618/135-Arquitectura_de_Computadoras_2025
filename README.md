@@ -15,5 +15,5 @@ La asignatura **Arquitectura de Computadoras**, está planteada como una materia
 + Interrupciones y DMA.
 
 ## :paperclip: Resúmenes hechos durante la cursada de la materia "Arquitectura de Computadoras"
-- [Ejercicios Resueltos - CPU Cableada, CPU Microprogramada, alineación de direcciones de memoria]()
-- [Resúmen - Memorias, Memoria Caché, Debugging y Entrada/Salida]()
+- [Ejercicios Resueltos - CPU Cableada, CPU Microprogramada, alineación de direcciones de memoria](Modelo de Parcial - Arquitectura de Computadoras.pdf)
+- [Resúmen - Memorias, Memoria Caché, Debugging y Entrada/Salida](RESUMEN - Arquitectura de Computadoras.pdf)
